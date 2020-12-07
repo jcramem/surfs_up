@@ -8,9 +8,9 @@ The goal of this project is to determine if a surf and ice cream shop is sustain
 * Software: Python 3.7.6; Jupyter Notebook 6.0.3
 
 ## Results 
-An analysis of Oahu temperatures in June and December revealed the following. Please reference the :  
+The tables below show June and December temperature information in Oahu. An analysis revealed the following:  
 
-* On average, the temperature differecnes between June and Decemeber are likley not as drastic as in other parts of the United States of America. The differecne in avwrage high temperatue between June (75 degrees) and December (71 degrees) is only four degrees. For example, the avwrage high temperatue in Los Angeles in June is 78 degrees and 68 degreess in December.  
+* On average, the temperature differences between June and December are likely not as drastic as in other parts of the United States of America. The difference in average high temperature between June (75 degrees) and December (71 degrees) is only four degrees. By contrast, the average high temperature in Los Angeles in June is 78 degrees and 68 degrees in December.  
 
 * And yet the more rural the location, the higher the average fare, both per ride and per driver. This could be the result of the typical distance per ride in suburban and rural areas.
 
