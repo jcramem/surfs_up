@@ -10,11 +10,14 @@ The goal of this project is to determine if a surf and ice cream shop is sustain
 ## Results 
 The tables below show June and December temperature information in Oahu. An analysis revealed the following:  
 
-* On average, the temperature differences between June and December are likely not as drastic as in other parts of the United States of America. The difference in average high temperature between June (75 degrees) and December (71 degrees) is only four degrees. By contrast, the average high temperature in Los Angeles in June is 78 degrees and 68 degrees in December.  
+* On average, the temperature differences between June and December are likely not as drastic as in other parts of the United States of America. The difference in average high temperature between June (75 degrees) and December (71 degrees) is only four degrees. By contrast, the average high temperature in Los Angeles is 78 degrees in June and 68 degrees in December.  
 
-* And yet the more rural the location, the higher the average fare, both per ride and per driver. This could be the result of the typical distance per ride in suburban and rural areas.
+* In addition, the maximum temperature seen in each month is about the same, 85 degrees in June and 83 in December. This data point, combined with the point made above and the similar small standard deviation suggest that the opportunities for ice cream and surfing will be consistent at different points in the year. 
+
+* One point worth noting is the low temperature readings tend to be noticeably lower in December than in June. So, although daytime temperatures should allow for surfing and ice cream, lower nighttime temperatures in December may summon additional services like hot chocolate or s’mores.  
 
 ### June Temperature Data
+
 ![June_Temperature](/June_Temperature.png).
 
 ### December Temperature Data
