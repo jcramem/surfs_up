@@ -8,14 +8,16 @@ The goal of this project is to determine if a surf and ice cream shop is sustain
 * Software: Python 3.7.6; Jupyter Notebook 6.0.3
 
 ## Results 
-Distinct differences exist in ride-sharing data between city types. 
+An analysis of Oahu temperatures in June and December revealed the following. Please reference the :  
 
-* As noted in the chart below, urban locales have substantially more drivers to accommodate substantially more rides. The farther one gets from urban areas, the fewer drivers and rides.   
+* On average, the temperature differecnes between June and Decemeber are likley not as drastic as in other parts of the United States of America. The differecne in avwrage high temperatue between June (75 degrees) and December (71 degrees) is only four degrees. For example, the avwrage high temperatue in Los Angeles in June is 78 degrees and 68 degreess in December.  
+
 * And yet the more rural the location, the higher the average fare, both per ride and per driver. This could be the result of the typical distance per ride in suburban and rural areas.
 
+### June Temperature Data
 ![June_Temperature](/June_Temperature.png).
 
-
+### December Temperature Data
 ![December_Temperature](/December_Temperature.png).
 
 
