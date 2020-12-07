@@ -13,10 +13,10 @@ Distinct differences exist in ride-sharing data between city types.
 * As noted in the chart below, urban locales have substantially more drivers to accommodate substantially more rides. The farther one gets from urban areas, the fewer drivers and rides.   
 * And yet the more rural the location, the higher the average fare, both per ride and per driver. This could be the result of the typical distance per ride in suburban and rural areas.
 
-![June_Temperature_DataFrame](/June_Temperature_DataFrame.png).
+![June_Temperature](/June_Temperature.png).
 
 
-![December_Temperature_DataFrame](/December_Temperature_DataFrame.png).
+![December_Temperature](/December_Temperature.png).
 
 
 ## Summary
